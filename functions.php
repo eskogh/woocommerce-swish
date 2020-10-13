@@ -68,3 +68,5 @@ function swish_add_content_specific_email( $order, $sent_to_admin, $plain_text, 
 		echo '<div style="margin: auto;"><img src="data:image/png;base64,' . $order->get_meta('_swish_qr_code') . '"></div>';
 	}
 }
+
+php?>
