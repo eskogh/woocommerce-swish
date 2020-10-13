@@ -69,4 +69,4 @@ function swish_add_content_specific_email( $order, $sent_to_admin, $plain_text, 
 	}
 }
 
-php?>
+?>
